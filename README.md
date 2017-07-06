@@ -10,7 +10,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/debugger89/WebRadioClient
+git clone https://github.com/debugger89/WebRadioClient.git
 # Go into the repository
 cd WebRadioClient
 # Install dependencies
